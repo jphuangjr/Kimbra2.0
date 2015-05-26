@@ -13,6 +13,7 @@
 		9A70DEB61B13D6A100A1AF37 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A70DEB51B13D6A100A1AF37 /* Images.xcassets */; };
 		9A70DEB91B13D6A100A1AF37 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A70DEB71B13D6A100A1AF37 /* LaunchScreen.xib */; };
 		9A70DEC51B13D6A100A1AF37 /* Kimbra2_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A70DEC41B13D6A100A1AF37 /* Kimbra2_0Tests.swift */; };
+		9A70DECF1B13DC5900A1AF37 /* customButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A70DECE1B13DC5900A1AF37 /* customButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		9A70DEBE1B13D6A100A1AF37 /* Kimbra2.0Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Kimbra2.0Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A70DEC31B13D6A100A1AF37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A70DEC41B13D6A100A1AF37 /* Kimbra2_0Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kimbra2_0Tests.swift; sourceTree = "<group>"; };
+		9A70DECE1B13DC5900A1AF37 /* customButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = customButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				9A70DEAE1B13D6A100A1AF37 /* AppDelegate.swift */,
 				9A70DEB01B13D6A100A1AF37 /* ViewController.swift */,
 				9A70DEB21B13D6A100A1AF37 /* Main.storyboard */,
+				9A70DECE1B13DC5900A1AF37 /* customButton.swift */,
 				9A70DEB51B13D6A100A1AF37 /* Images.xcassets */,
 				9A70DEB71B13D6A100A1AF37 /* LaunchScreen.xib */,
 				9A70DEAC1B13D6A100A1AF37 /* Supporting Files */,
@@ -214,6 +217,7 @@
 			files = (
 				9A70DEB11B13D6A100A1AF37 /* ViewController.swift in Sources */,
 				9A70DEAF1B13D6A100A1AF37 /* AppDelegate.swift in Sources */,
+				9A70DECF1B13DC5900A1AF37 /* customButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
